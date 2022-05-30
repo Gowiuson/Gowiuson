@@ -1,0 +1,151 @@
+* {
+  padding: 0%;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  color: #333;
+  size: 100%;
+
+}
+#first-body {
+background-image: url(/CSS/pexels-pixabay-280222.jpg);
+background-size: cover;
+height: 800px;
+
+}
+.welcome {
+  padding-top: 320px;
+  text-align: center;
+}
+
+.welcome h2 {
+  display: inline-block;
+  font-size: 30px;
+  color: #fff;
+  background: rgba(1, 1, 187, 0.685);
+  border: 1px rgb(98, 97, 160) solid;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 210px;
+
+}
+.welcome p {
+  display: inline-block;
+  font-size: 22px;
+  color: #fff;
+  background: rgb(17, 183, 224);
+  border: 1px rgb(17, 183, 224) solid;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 400px;
+}
+#main {
+  background: antiquewhite;
+ 
+}
+.img {
+  border-radius: 70px;
+  display: inline-block;
+  margin-left: 90px;
+}
+
+#main .box {
+  width: 33%;
+  display: inline-block;
+  background: antiquewhite;
+ padding-top: 50px;
+  margin-bottom: 20px
+
+}
+.show {
+  /* display: inline-block; */
+  font-size: 22px;
+  font-family:'Times New Roman', Times, serif;
+  color: #333;
+  background: antiquewhite;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 200px;
+  text-align: center;
+  margin-left: 70px;
+  margin-top: 30px;
+  font-weight: bolder;
+}
+
+.box p {
+  font-size: 22px;
+  font-family:'Times New Roman', Times, serif;
+  color: #333;
+  background: antiquewhite;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 266px;
+  text-align: center;
+  margin-left: 70px;
+  margin-top: 30px;
+  padding-bottom: 30px;
+}
+#info-side {
+  background-color: rgb(168, 238, 238);
+  width: 1000px;
+  height: 500px;
+  border-bottom: blue 5px solid;
+  border-radius: 5px;
+  margin-left: 350px;
+  display: inline-block;
+ 
+}
+.btn {
+  padding:30px 20px;
+}
+
+.info-img {
+  float: left;
+}
+
+.info-content {
+  float: right;
+}
+
+.info-content {
+  font-size: 22px;
+  color: rgb(9, 44, 90);
+  background: rgb(168, 238, 238);
+  border: 1px rgb(168, 238, 238) solid;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 400px;
+  margin-right: 200px;
+
+}
+
+.info-content h2 {
+  padding-top: 60px;
+  font-size: 35px;
+  text-align: center;
+  padding-bottom: 60px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.info-content p {
+  display: inline-block;
+  font-size: 25px;
+  color: rgb(9, 44, 90);
+  background: rgb(168, 238, 238);
+  border: 1px rgb(168, 238, 238) solid;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 350px;
+  
+}
+
+.info-content h3 {
+  padding-top: 40px;
+  font-size: 35px;
+  text-align: center;
+  padding-bottom: 60px;
+}
